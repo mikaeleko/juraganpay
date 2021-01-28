@@ -1,0 +1,1 @@
+{"rownum":"1","PROC_TYPE":"XMLIN.EXE","SOURCE_FULL_PATH":".\\XMLIN\\","BEFORE_COPY_ARGS":"host_ip=%s xmlin_id=%d req_port=%d res_port=%d is_ssl=%d","AFTER_COPY_BAT_FILE_ARGS":"","DEF_PRIORITY":"","AAA_INI_WRITE":"xml_out_url_%xmlin_id%=http:\/\/%host_ip%:%res_port%"}

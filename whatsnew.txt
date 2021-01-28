@@ -1,0 +1,10 @@
+Tanggal 15-07-2020
+- Perbaikan menu Belanja, product type = B arahkan ke screen pembayaran
+- Fitur Setting Print (ada di menu Akun->Setting print)
+- Menambahkan nomor pengirim di menu cetak struk
+- Perbaikan transaksi token listrik dan emoney
+
+Prosedur Update Web :
+1. backup dulu yang versi lama
+2. copy file zip-nya ke C:/xampp/htdocs/
+3. extract here -> replace all

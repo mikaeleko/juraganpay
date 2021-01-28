@@ -1,0 +1,1 @@
+{"image":null,"nama_outlet":"MPOINT MULTIPAYMENT GATEWAY","alamat":"BANDAR LAMPUNG","no_telepon":"0895348776013","web_link":"http:\/\/st24.co.id","facebook_link":"http:\/\/facebook.com\/st24official","instagram_link":"@st24reborn","twitter_link":"@st24reborn","note":"TEST"}
